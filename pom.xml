@@ -18,7 +18,7 @@
        <repository>
          <id>internal.repo</id>
          <name>Internal repo</name>
-         <url>file://home/ec2-user/Releases/</url>
+         <url>file:///home/ec2-user/Releases/</url>
        </repository>
    </distributionManagement>
 <!--distributionManagement>
